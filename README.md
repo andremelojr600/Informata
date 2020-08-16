@@ -1,2 +1,0 @@
-# Informata
-Teste Informata
